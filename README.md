@@ -17,10 +17,6 @@ Hi there! 👋 I'm Tanya, a passionate **Computer Science & Software Engineering
   - Software Development  
   - Human-Centric Designs  
 
-- 📬 Reach me at:  
-  - Email: [tanyatripathi134340@gmail.com](mailto:tanyatripathi134340@gmail.com)  
-  - [LinkedIn](https://www.linkedin.com/in/tanya134340/) | [LeetCode](https://leetcode.com/u/Tanya134340/) | [Linktree](https://linktr.ee/tanya134340)  
-
 ---
 
 ## 💻 My Skills
@@ -63,6 +59,6 @@ Hi there! 👋 I'm Tanya, a passionate **Computer Science & Software Engineering
 
 🌟 **Let's build something amazing together!** 🌟
 
-[GitHub](https://github.com/Tanya0139) | [LinkedIn](https://www.linkedin.com/in/tanya134340/) | [Linktree](https://linktr.ee/tanya134340) | [LeetCode](https://leetcode.com/u/Tanya134340/)  
+[GitHub](https://github.com/Tanya0139) | [LinkedIn](https://www.linkedin.com/in/tanya134340/) | [tanyatripathi134340@gmail.com](mailto:tanyatripathi134340@gmail.com) | [LeetCode](https://leetcode.com/u/Tanya134340/)  
 
 --- 
