@@ -1,7 +1,4 @@
-Here’s a GitHub README for your profile based on your resume:
-
 ---
-
 # Tanya Tripathi 👩‍💻
 
 Hi there! 👋 I'm Tanya, a passionate **Computer Science & Software Engineering** student at **Vellore Institute of Technology, Chennai**. I specialize in creating innovative projects that solve real-world problems using technology. Welcome to my GitHub, where you'll find my explorations and contributions in software development, embedded systems, and algorithm design.
