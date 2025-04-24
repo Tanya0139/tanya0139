@@ -99,16 +99,19 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 ---
 
 ## 🤖 AI Projects
-<table align="center" style="border-radius: 0px;"> 
-<tr><td align="center">
-      <a href="https://github.com/Tanya0139/credit-risk-prediction">
-        <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/credit.gif" alt="Credit Risk Prediction" height="200" style="border-radius: 8px;">
-      </a>
-      <br><b>💳 Credit Risk Prediction</b><br>
-      <sub>Machine learning project to predict loan default risk based on customer profiles.</sub><br>
-      <sub><b>🛠 Tech Stack:</b> Python, Scikit-learn, XGBoost, Streamlit</sub>
-    </td></tr>
-</table> 
+
+### 💳 Credit Risk Prediction
+
+<p align="center">
+  <a href="https://github.com/Tanya0139/credit-risk-prediction">
+    <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/credit.gif" alt="Credit Risk Prediction" height="350">
+  </a>
+</p>
+
+
+<p align="center">Machine learning project to predict loan default risk based on customer profiles.</p>
+
+<p align="center"><b>🛠 Tech Stack:</b> Python, Scikit-learn, XGBoost, Streamlit</p>
 
 <table align="center" style="border-radius: 0px;"> 
   <tr>
