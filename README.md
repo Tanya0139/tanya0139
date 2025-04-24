@@ -148,6 +148,9 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 ---
 
 📫 **Let's connect and collaborate!**  
-[GitHub](https://github.com/Tanya0139) | [LinkedIn](https://www.linkedin.com/in/tanya134340/) | [Email](mailto:tanyatripathi134340@gmail.com) | [LeetCode](https://leetcode.com/u/Tanya134340/)
+<p align = "centre"> 
+  
+[GitHub](https://github.com/Tanya0139) | [Email](mailto:tanyatripathi134340@gmail.com) 
+</p>
 
 ---
