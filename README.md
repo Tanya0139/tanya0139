@@ -7,6 +7,23 @@ As part of my university work, I’ve also built several **hardware projects** �
 
 I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learning interest** 🚀.
 
+## 🧰 My Toolkit
+
+<p align="center">
+  <img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="Databricks" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40px" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" alt="Fabric" height="40px" />
+  <img src="https://images.ctfassets.net/h6ufgtwb6nv1/4xeg3E52wiN7iUDIlBacsw/065485e8ac85198c8b435c49daa54550/snowflake__1_.svg" alt="Snowflake" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40px" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" height="40px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-excel-logo-icon-download-in-svg-png-gif-file-formats--brand-brands-logos-pack-icons-116252.png?f=webp&w=512" alt="Excel" height="40px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-download-in-svg-png-gif-file-formats--logo-developer-tool-brand-logos-pack-icons-1597554.png?f=webp&w=512" alt="GitHub" height="40px" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" alt="Airflow" height="40px" />
+</p>
+
 ---
 
 ## 📚 Publications
@@ -43,7 +60,7 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
   <tr>
     <td align="center">
       <a href="https://github.com/Tanya0139/aws-api-to-redshift">
-        <img src="https://raw.githubusercontent.com/Tanya0139/aws-api-to-redshift/main/assets/api_redshift.png" alt="AWS API to Redshift" height="200" style="border-radius: 8px;">
+        <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/zillow.png" alt="AWS API to Redshift" height="200" style="border-radius: 8px;">
       </a>
       <br><b>📡 AWS API to Redshift</b><br>
       <sub>Streaming and batching third-party API data into Amazon Redshift for warehousing.</sub><br>
@@ -68,30 +85,12 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
       <sub><b>🛠 Tech Stack:</b> Azure Fabric, Power BI, Python</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Tanya0139/azure_nyc_taxi/blob/main/README.md">
-        <img src="https://raw.githubusercontent.com/Tanya0139/azure_nyc_taxi/main/assets/nyc_taxi.png" alt="NYC Taxi Data" height="200" style="border-radius: 8px;">
-      </a>
-      <br><b>🚖 NYC Taxi Analytics</b><br>
-      <sub>Data engineering pipeline on Azure for analyzing NYC taxi trip patterns.</sub><br>
-      <sub><b>🛠 Tech Stack:</b> Azure Synapse, Data Factory, Power BI, Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Tanya0139/Azure_Synapse/blob/main/README.md">
-        <img src="https://raw.githubusercontent.com/Tanya0139/Azure_Synapse/main/assets/synapse_dashboard.png" alt="Azure Synapse Analytics" height="200" style="border-radius: 8px;">
+        <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/synapse.png" alt="Azure Synapse Analytics" height="200" style="border-radius: 8px;">
       </a>
       <br><b>🧪 Azure Synapse Dashboard</b><br>
       <sub>Built a scalable Synapse pipeline for structured data warehousing and reporting.</sub><br>
       <sub><b>🛠 Tech Stack:</b> Azure Synapse, Power BI, Data Lake, SQL</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tanya0139/credit-risk-prediction">
-        <img src="https://raw.githubusercontent.com/Tanya0139/credit-risk-prediction/main/assets/credit_risk.png" alt="Credit Risk Prediction" height="200" style="border-radius: 8px;">
-      </a>
-      <br><b>💳 Credit Risk Prediction</b><br>
-      <sub>Machine learning project to predict loan default risk based on customer profiles.</sub><br>
-      <sub><b>🛠 Tech Stack:</b> Python, Scikit-learn, XGBoost, Streamlit</sub>
     </td>
   </tr>
 </table>
@@ -100,6 +99,16 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 ---
 
 ## 🤖 AI Projects
+<table align="center" style="border-radius: 0px;"> 
+<tr><td align="center">
+      <a href="https://github.com/Tanya0139/credit-risk-prediction">
+        <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/credit.gif" alt="Credit Risk Prediction" height="200" style="border-radius: 8px;">
+      </a>
+      <br><b>💳 Credit Risk Prediction</b><br>
+      <sub>Machine learning project to predict loan default risk based on customer profiles.</sub><br>
+      <sub><b>🛠 Tech Stack:</b> Python, Scikit-learn, XGBoost, Streamlit</sub>
+    </td></tr>
+</table> 
 
 <table align="center" style="border-radius: 0px;"> 
   <tr>
@@ -148,3 +157,6 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 ---
 
 📫 **Let's connect and collaborate!**  
+
+---
+
