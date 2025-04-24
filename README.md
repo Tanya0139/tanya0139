@@ -148,9 +148,3 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 ---
 
 📫 **Let's connect and collaborate!**  
-<p align = "centre"> 
-  
-[GitHub](https://github.com/Tanya0139) | [Email](mailto:tanyatripathi134340@gmail.com) 
-</p>
-
----
