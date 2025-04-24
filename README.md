@@ -100,16 +100,14 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
 
 ## 🤖 AI Projects
 
-### 💳 Credit Risk Prediction
+### <a href="https://github.com/Tanya0139/credit-risk-prediction">💳 Credit Risk Prediction</strong></a>
 
 <table align="center">
   <tr>
-    <td align="center" width="600">
+    <td align="center" width="640">
       <a href="https://github.com/Tanya0139/credit-risk-prediction">
-          <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/credit.gif" alt="Credit Risk Prediction" width="620" height="380">
+        <img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/credit.gif" alt="Credit Risk Prediction" width="400" height="250">
       </a>
-      <br><br>
-      <a href="https://github.com/Tanya0139/credit-risk-prediction"><strong>💳 Link to Repo</strong></a>
       <br><br>
       <sub>Machine learning project to predict loan default risk based on customer profiles.</sub>
       <br><br>
@@ -117,6 +115,7 @@ I dive into **AI projects** 🤖 as a hobby, and it’s become my **latest learn
     </td>
   </tr>
 </table>
+
 
 <table align="center" style="border-radius: 0px;"> 
   <tr>
